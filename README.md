@@ -1,5 +1,21 @@
-### Hi there 👋
+### 
 
+<h3>🙋🏼‍♀️ Welcome </h3> 
+<div id="badges"><img src="https://komarev.com/ghpvc/?username=dkultyshkina&style=flat-square&color=blue" alt=""/> </div>
+
+💻 I write code and enjoy learning new things.
+
+<h3>
+  😄 About me
+</h3>
+
+👩🏼‍🎓 I am a technical university student.
+
+👩🏼‍💻 I practice and create projects in C#, C, C++ and Python programming languages.
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="150"/>
+</div>
 <!--
 **dkultyshkina/dkultyshkina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
