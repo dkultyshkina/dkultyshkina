@@ -18,7 +18,7 @@
 <h3></h3>
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="java" width="30" height="30"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" width="30" height="30"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="postgresql" width="30" height="30"/>&nbsp;
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="qt" width="30" height="30"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="cplusplus" width="30" height="30"/>&nbsp;
