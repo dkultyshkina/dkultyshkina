@@ -1,7 +1,6 @@
 ### 
 
 <h3>🙋🏼‍♀️ Welcome </h3> 
-<div id="badges"><img src="https://komarev.com/ghpvc/?username=dkultyshkina&style=flat-square&color=blue" alt=""/> </div> 
 
 ### :computer: I write code and enjoy learning new things
 
@@ -26,8 +25,6 @@
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="mysql" width="30" height="30"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="php" width="30" height="30"/>&nbsp;
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="postgresql" width="30" height="30"/>&nbsp;
 
 ### :dart: Codewars
 
