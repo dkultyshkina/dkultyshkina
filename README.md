@@ -2,16 +2,6 @@
 
 <h3>🙋🏼‍♀️ Welcome </h3> 
 
-### :computer: I write code and enjoy learning new things
-
-<h3>
-  👩🏼‍💻 Information about me 
-</h3>
-
- - Kultyshkina Daria 
- - Bachelor of Informatics and Computer Engineering
- - I practice and create projects in C, C++, PHP, Python and Java programming languages
-
 ### :hammer_and_wrench: Languages and Tools :
 
 <h3></h3>
